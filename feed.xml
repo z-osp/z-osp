@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Demo Site</title>
+    <link href="https://z-osp.github.io/z-osp/feed.xml" rel="self" />
+    <link href="https://z-osp.github.io/z-osp" />
+    <updated>2023-09-26T15:43:17+02:00</updated>
+    <author>
+        <name>z-osp</name>
+    </author>
+    <id>https://z-osp.github.io/z-osp</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>z-osp</name>
+        </author>
+        <link href="https://z-osp.github.io/z-osp/test-post.html"/>
+        <id>https://z-osp.github.io/z-osp/test-post.html</id>
+
+        <updated>2023-09-26T15:43:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

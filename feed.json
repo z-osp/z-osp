@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Demo Site",
+    "description": "",
+    "home_page_url": "https://z-osp.github.io/z-osp",
+    "feed_url": "https://z-osp.github.io/z-osp/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "z-osp"
+    },
+    "items": [
+        {
+            "id": "https://z-osp.github.io/z-osp/test-post.html",
+            "url": "https://z-osp.github.io/z-osp/test-post.html",
+            "title": "Test Post",
+            "summary": "Lorem Ipsum.",
+            "content_html": "<p>Lorem Ipsum.</p>",
+            "author": {
+                "name": "z-osp"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-26T15:43:17+02:00",
+            "date_modified": "2023-09-26T15:43:17+02:00"
+        }
+    ]
+}
