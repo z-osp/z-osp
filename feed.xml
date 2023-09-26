@@ -3,7 +3,7 @@
     <title>Demo Site</title>
     <link href="https://z-osp.github.io/z-osp/feed.xml" rel="self" />
     <link href="https://z-osp.github.io/z-osp" />
-    <updated>2023-09-26T15:43:17+02:00</updated>
+    <updated>2023-09-26T16:05:44+02:00</updated>
     <author>
         <name>z-osp</name>
     </author>
@@ -17,15 +17,29 @@
         <link href="https://z-osp.github.io/z-osp/test-post.html"/>
         <id>https://z-osp.github.io/z-osp/test-post.html</id>
 
-        <updated>2023-09-26T15:43:17+02:00</updated>
+        <updated>2023-09-26T16:05:44+02:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem Ipsum.
+                    Mountains Cake Sunset Text Lorem Ipsum.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Lorem Ipsum.</p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://z-osp.github.io/z-osp/media/posts/1/gallery/dylan-taylor-XN3Ao8zqiLA-unsplash.jpg" data-size="4801x7780"><img loading="lazy" src="https://z-osp.github.io/z-osp/media/posts/1/gallery/dylan-taylor-XN3Ao8zqiLA-unsplash-thumbnail.jpg" alt="Mountains" width="720" height="1167"></a>
+<figcaption>Mountains</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://z-osp.github.io/z-osp/media/posts/1/gallery/karina-kungla-knVYO9dW8_Y-unsplash.jpg" data-size="2200x3299"><img loading="lazy" src="https://z-osp.github.io/z-osp/media/posts/1/gallery/karina-kungla-knVYO9dW8_Y-unsplash-thumbnail.jpg" alt="Cake" width="720" height="1080"></a>
+<figcaption>Cake</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://z-osp.github.io/z-osp/media/posts/1/gallery/wolfgang-hasselmann-EoR_G3McWow-unsplash.jpg" data-size="6745x4497"><img loading="lazy" src="https://z-osp.github.io/z-osp/media/posts/1/gallery/wolfgang-hasselmann-EoR_G3McWow-unsplash-thumbnail.jpg" alt="Sunset" width="720" height="480"></a>
+<figcaption>Sunset</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://z-osp.github.io/z-osp/media/posts/1/gallery/vadim-bogulov-_Ied2WMjoY4-unsplash.jpg" data-size="3840x2860"><img loading="lazy" src="https://z-osp.github.io/z-osp/media/posts/1/gallery/vadim-bogulov-_Ied2WMjoY4-unsplash-thumbnail.jpg" alt="Text" width="720" height="536"></a>
+<figcaption>Text</figcaption>
+</figure>
+</div></div>
+<p>Lorem Ipsum.</p>
             ]]>
         </content>
     </entry>
